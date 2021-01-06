@@ -5,7 +5,7 @@ This app has the functions to customize the main text through the control of the
 ### App Walk-through
 Walk-through GIF: https://imgur.com/xxCEcfN
 
-<img src="https://imgur.com/xxCEcfN" width=200><br>
+<img src="https://imgur.com/xxCEcfN.jpg" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
